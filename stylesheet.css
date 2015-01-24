@@ -5,7 +5,7 @@ div {border-radius: 5px;}
 	width: 97.5%;
 	margin-top: -20px;
 	height: 60px;
-	background-color: #668284;
+	background-color: #B280000;
 	margin-bottom: 10px;
 }
 #name{
@@ -35,7 +35,7 @@ h3 {
 	margin-right: 5px;
 	margin-top: -10px;
 	font-family: Garamond, serif;
-	color: #000000;
+	color: #B9D7D9;
 }
 
 li {
@@ -52,7 +52,7 @@ a:hover {
 	margin-top: 50px;
 	width: 10%;
 	height: 400px;
-	background-color: #B9D7D9;
+	background-color: #000000;
 	margin-bottom: 10px;
 }
 
