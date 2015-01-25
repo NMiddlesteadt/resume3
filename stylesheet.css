@@ -58,7 +58,7 @@ a:hover {
 #noah{padding:10px;
 }
 
-.bl{
+.bl{	z-index:0;
 	position:relative;
 	left:-300px;
 	bottom:-270px;
