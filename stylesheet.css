@@ -59,11 +59,13 @@ a:hover {
 }
 
 .bl{
+	position:relative;
+	left:-50px;
+	bottom:-100px;
 	float:left;
 	width:17%;
 	height:210px;
 	border-radius:15px;
-	background-color:#ffffff;
 	border:solid;
 }
 .right {
