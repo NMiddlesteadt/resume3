@@ -66,6 +66,7 @@ a:hover {
 	height:210px;
 	border-radius:15px;
 	background-color:#ffffff;
+	border:solid;
 }
 .right {
 	position: relative;
