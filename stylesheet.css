@@ -60,7 +60,7 @@ a:hover {
 
 .bl{
 	float:left;
-	clear:top;
+	clear:bottom;
 	position:realative;
 	width:17%;
 	height:210px;
