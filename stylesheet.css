@@ -58,6 +58,15 @@ a:hover {
 #noah{padding:10px;
 }
 
+.bl{
+	float:left;
+	clear:top;
+	position:realative;
+	width:17%;
+	height:210px;
+	border-radius:15px;
+	background-color:#ffffff;
+}
 .right {
 	position: relative;
 	float: right;
