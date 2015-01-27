@@ -60,10 +60,10 @@ a:hover {
 
 .bl{	z-index:0;
 	position:relative;
-	left:-160px;
-	bottom:-270px;
+	left:-165px;
+	bottom:-250px;
 	float:left;
-	width:200px;
+	width:180px;
 	height:400px;
 	border-radius:15px;
 	border:solid;
