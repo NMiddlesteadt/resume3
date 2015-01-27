@@ -72,7 +72,7 @@ a:hover {
 .right {
 	position: relative;
 	float: right;
-	clear: left;
+	clear: initial;
 	margin-top: 50px;
 	width: 80%;
 	height: 400px;
