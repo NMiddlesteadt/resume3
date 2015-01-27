@@ -60,7 +60,7 @@ a:hover {
 
 .bl{	z-index:0;
 	position:relative;
-	left:-165px;
+	left:-168px;
 	bottom:-235px;
 	float:left;
 	width:165px;
@@ -72,7 +72,7 @@ a:hover {
 .right {
 	position: relative;
 	float: right;
-	clear: initial;
+	top:-200px;
 	margin-top: 50px;
 	width: 80%;
 	height: 400px;
