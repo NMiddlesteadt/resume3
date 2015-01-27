@@ -81,7 +81,7 @@ a:hover {
 }
 
 #footer {
-	position: fixed;
+	position: relative;
 	height: 50px;
 	background-color: #668284;
 	clear: both;
